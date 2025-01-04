@@ -1,4 +1,4 @@
-simulating minimum x86 emulator in c
+## run
 
 ```shell
 > make run
